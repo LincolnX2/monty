@@ -103,8 +103,3 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 ### Advanced Tasks
 * opcodes: sub, div, mul, mod, comments, pchar, pstr, rotl, rotr, stack, queue, Holberton, Add two digits, Multiplication, Multiplication level up
 
----
-
-## Authors
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
-* **Wescott Sharples** - [wescottsharples](https://github.com/wescottsharples)
